@@ -1,0 +1,53 @@
+.containerr{
+    margin-left: 30%;
+}
+
+
+.top-left {
+    position: absolute;
+    top: 300px;
+    left: 900px;
+}
+
+.display-5{
+    color: rgba(71, 114, 255, 0.938);
+}
+
+
+.about{
+    margin-right: 70%;
+    margin-top: -52%;
+    background-color: rgb(47, 79, 79);
+}
+
+.round_img{
+    width:120px;
+    border-radius: 40%;
+    margin-top: 20%;
+    margin-left: 35%;
+    border-style:groove;
+}
+
+.Name{
+    font-weight: bold;
+    text-align: center;
+    color: white;
+}
+
+.twi{
+    width:45px;
+    border-radius: 1%;
+    margin-right: 2% ;
+}
+
+.twi1{
+    width:80px;
+    border-radius: 1%;
+    margin-right: 2%;
+}
+
+
+.home2{
+    margin-left: 8%;
+    margin-top: 15%;
+}
